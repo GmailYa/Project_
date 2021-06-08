@@ -19,6 +19,4 @@ Visual Studio 2017
 4)Просматривать Содержимое таблицы "employees"
 
 5)С помощью таблицы "ZP" производить расчет заработной платы работников (по формуле Заработная плата = Количество отработанных смен * Оклад)  
-git init
-git remote add origin https://github.com/GmailYa/Project_/edit/master/WindowsFormsApp4/Безымянный.png
-git commit -m "adding files"
+![Image alt](https://github.com/GmailYa/Project_/edit/master/WindowsFormsApp4/Безымянный.png)
